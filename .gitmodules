@@ -1,0 +1,3 @@
+[submodule "DiceGame"]
+	path = DiceGame
+	url = https://github.com/NilanchalaPanda/DICEGAME.git
